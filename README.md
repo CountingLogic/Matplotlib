@@ -1,5 +1,4 @@
 # Matplotlib
-Step By Step  Guide to Matplotlib
 Sick and tired of copying and pasting Matplotlib codes from stack overflow and understanding nothing ?
 Well, I was and in many cases still am there. 
 
